@@ -1,8 +1,12 @@
 # Class-D-Audio-Amplifier
 Class-D audio amplifier using basic and discrete components only, without relying on any dedicated Class-D amplifier IC.
+
 Author: Mohd Abdul Zaid Qureshi
+
 Degree: B.Tech – Electronics & Telecommunication (2026)
+
 Tools Used: LTspice, EasyEDA, KiCad (optional), Git
+
 Application: Embedded Hardware Developer – Vicharak
 
 1. Objective
